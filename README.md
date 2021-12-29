@@ -55,7 +55,7 @@ def need_to_move(lisp_reference: str) -> int:
 
 ## Вставка изображения
 Пример вставки изображения:
-![Пример изображения](https://i.ibb.co/g9SF6Ss/photo-2021-12-29-15-24-47.jpg, "Богатыри")
+![Пример изображения](https://i.ibb.co/fQrTFV1/Hc-ARyz52-QXs.jpg, "Minecraft is life")
 ____
 [:arrow_up:Оглавление](#Оглавление)
 ____
