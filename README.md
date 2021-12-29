@@ -57,7 +57,7 @@ ____
 Изображение:
 ![Изображение](https://i.ibb.co/fQrTFV1/Hc-ARyz52-QXs.jpg, "Minecraft is life")
 ____
-Для оформления этого файла был использован язык разметки [markdown](https://ru.wikipedia.org/wiki/Markdown).
+Для оформления этого файла был использован облегчённый язык разметки [markdown](https://ru.wikipedia.org/wiki/Markdown).
 ____
 [:arrow_up:Оглавление](#Оглавление)
 ____
