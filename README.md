@@ -27,9 +27,7 @@ def is_cbs(string_to_check: str) -> int:
             string_to_check = string_to_check.replace(bracket_parts, '')
     return not string_to_check
 ```
-____
-[:arrow_up:Оглавление](#Оглавление)
-____
+
 ## Вторая функция
 Вторая функция *need_to_move* находит количество изменений, необходимых для получения ПСП из полученной строки.
 Код функции:
@@ -55,9 +53,7 @@ def need_to_move(lisp_reference: str) -> int:
             temp += 1
     return total + temp
 ```
-____
-[:arrow_up:Оглавление](#Оглавление)
-____
+
 ## Вставка изображения
 Пример вставки изображения:
 ![Пример изображения](https://i.ibb.co/g9SF6Ss/photo-2021-12-29-15-24-47.jpg, "Богатыри")
