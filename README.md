@@ -54,7 +54,6 @@ def need_to_move(lisp_reference: str) -> int:
 ```
 ____
 ## Вставка изображения
-Изображение:
 ![Изображение](https://i.ibb.co/fQrTFV1/Hc-ARyz52-QXs.jpg, "Minecraft is life")
 ____
 Для оформления этого файла был использован облегчённый язык разметки [markdown](https://ru.wikipedia.org/wiki/Markdown).
